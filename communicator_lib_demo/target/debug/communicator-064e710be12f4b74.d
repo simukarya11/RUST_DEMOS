@@ -1,1 +1,0 @@
-/Users/simukarya/Desktop/RUST_DEMOS/communicator/target/debug/communicator-064e710be12f4b74: /Users/simukarya/Desktop/RUST_DEMOS/communicator/src/client.rs /Users/simukarya/Desktop/RUST_DEMOS/communicator/src/lib.rs /Users/simukarya/Desktop/RUST_DEMOS/communicator/src/network/mod.rs /Users/simukarya/Desktop/RUST_DEMOS/communicator/src/network/server.rs
